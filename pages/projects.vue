@@ -1,11 +1,11 @@
 <template>
     <div>
-        This page is about me
+        <ProjectList />
     </div>
 </template>
 
 <script setup>
 useHead({
-    title: 'About Me',
-})
+    title: 'Projects',
+});
 </script>
