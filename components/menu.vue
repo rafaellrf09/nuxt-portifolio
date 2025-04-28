@@ -4,6 +4,7 @@
             <li><nuxt-link class="link" to="/">Main</nuxt-link></li>
             <li><nuxt-link class="link" to="/about">About</nuxt-link></li>
             <li><nuxt-link class="link" to="/projects">Projects</nuxt-link></li>
+            <li><nuxt-link class="link" to="/blog">Blog</nuxt-link></li>
         </ul>
     </nav>
 </template>
